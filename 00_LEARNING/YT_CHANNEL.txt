@@ -1,0 +1,3 @@
+Channel Name: "Code Chai"
+
+Tagline: "Sip & Code with Me"
